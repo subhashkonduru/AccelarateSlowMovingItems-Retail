@@ -96,4 +96,4 @@ if user_text:
         else:
             st.write("No matching recommendations available!")
     else:
-        st.write("No relevant products found in inventory!")
+        st.write("No relevant products found in inventory!!")

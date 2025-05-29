@@ -15,7 +15,7 @@ product_id,product_name,category,vendor_name,days_to_expiry,sales_last_week,stoc
 114,Juice,Beverages,NaturalSip,10,5,20,38
 115,Juice,Beverages,ZestyJuice,7,6,15,44
 116,Bread,Bakery,BakeHouse,4,2,7,35
-117,Bread,Bakery,DailyBake,7,5,14,32
+117,Bread,Bakery,DailyBake,7,5,14,33
 118,Bread,Bakery,HealthyBake,2,3,4,30
 119,Bread,Bakery,WheatFresh,6,4,12,34
 120,Bread,Bakery,OrganicBake,8,6,25,33

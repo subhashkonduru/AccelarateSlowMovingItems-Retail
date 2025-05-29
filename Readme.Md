@@ -53,7 +53,7 @@ EXPIRY_THRESHOLD = 10  # Expiring in ≤ X days
 SLOW_MOVING_THRESHOLD = 5  # Sales threshold for slow-moving stock
 STOCK_THRESHOLD = 0  # Minimum stock required for recommendations
 🔗 API Integration (Intel OPEA)
-Once Intel OPEA integration is ready, uncomment:
+Once Intel OPEA integration is ready, uncomment :
 
 python
 def summarize_user_input_with_opea_api(user_text: str) -> Optional[List[str]]:
